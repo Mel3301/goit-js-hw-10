@@ -1,0 +1,26 @@
+.invisible {
+  display: none;
+}
+.cat-info {
+  display: flex;
+  gap: 20;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: auto;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+body {
+  background-color: rgba(189, 230, 245, 0.568);
+}
+.breed-select {
+  max-width: 500px;
+  margin-left: 20px;
+}
+.loader {
+  padding-left: 20px;
+}
